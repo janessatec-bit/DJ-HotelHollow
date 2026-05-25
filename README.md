@@ -68,9 +68,9 @@ Desenvolver um jogo de terror simples utilizando conceitos de:
 ---
 
 # Desenvolvedores
-Gustavo Paliosa
-Janessa Correia 
-Nilton Gabriel
+Gustavo Paliosa |
+Janessa Correia |
+Nilton Gabriel |
 Rayssa Silva
 
 Curso: Ciência da Computação  
