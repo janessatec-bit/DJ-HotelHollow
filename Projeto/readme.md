@@ -14,7 +14,7 @@
 File → Open Project
 
 4. Abra o arquivo:
-project.c3proj
+     Hotel.c3p
 
 5. Aguarde o carregamento do projeto.
 
